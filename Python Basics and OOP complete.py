@@ -9,7 +9,7 @@ comment'''
 p = 3+2j
 print(type(p))
 
-#data ype conversion
+#data type conversion
 flo = 4.3
 flo =int(flo)
 print(flo)
