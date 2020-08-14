@@ -111,9 +111,9 @@ print ("name is" , name , "CGPA is " ,gpa)
 #input
 '''inp = int(input("Enter message here to display : )) default input() is string , use whatever you need in input
 multiple input has two methods
-lst = [input("Enter kro kuch : ").split(',')] returns a list , values seprate by , 
+lst = [input("Enter anything : ").split(',')] returns a list , values seprate by , 
 OR
-a,b,c = int(input("ENter three numbers : )).split('whatever you want to split by')'''
+a,b,c = input("Enter three numbers : ).split('whatever you want to split by')'''
 
 #Break - Continue
 '''same as C++'''
