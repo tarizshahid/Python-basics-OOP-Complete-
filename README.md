@@ -1,4 +1,4 @@
-# Python-basics-OOP-Complete-
+# Python with advanced concepts
 Complete python basics &amp; Object Oriented Programming script, with each topic covered along with standard commenting and examples. easy to learn , ENJOY 
 
 Includes modern concepts:
