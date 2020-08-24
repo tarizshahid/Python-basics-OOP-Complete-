@@ -15,7 +15,7 @@ Threads
 
 Networking
 
-Data Base OPerations
+Data Base Operations
 
 simply download and run in any python interpreter to start learning today!!!
 
